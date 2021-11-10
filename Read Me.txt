@@ -1,0 +1,11 @@
+Pre Requisites
+==============
+
+1. Gmail Account should be less secure app for from address
+
+2. Set Procurement emails for to address
+
+3. Set Email schedule time and day in Focus
+
+4. Set email subject and body in Focus
+
